@@ -10,3 +10,5 @@
 ![](https://github.com/anastasiagrechenko/hw9/blob/master/слав.png)
 
 Использовала регулярное выражение: Нов(ѣ|ъ|а|у)город(ѣ|ъ|цю|а|у)?. Всего упоминаний о Новгороде нашла 59.
+
+![](https://github.com/anastasiagrechenko/hw9/blob/master/новгород.png)
